@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-	<version>1</version>
-	<name>http://tie163.qiniudn.com/Laughter-baidu.apk</name>
-	<describe>暂无更新内容</describe>
+	<version>2</version>
+	<name>http://tie163.qiniudn.com/Laughter-baidu2.apk</name>
+	<describe>1.修复幽默笑话显示的顺序问题
+	2.修复详细内容多的时候显示不全的bug</describe>
 </root>
