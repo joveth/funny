@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-	<version>2</version>
-	<name>http://tie163.qiniudn.com/Laughter-baidu21.apk</name>
-	<describe>1.修复幽默笑话显示的顺序问题
-	2.修复详细内容多的时候显示不全的bug
-	3.修复详细内容没有图片时的多余显示</describe>
+	<version>3</version>
+	<name>http://tie163.qiniudn.com/Laughter-1.3.apk</name>
+	<describe>1.重新定义菜单选项卡，优化滑动效果\n2.重新定义长按显示大图片的效果\n3.优化下拉刷新效果</describe>
 </root>
